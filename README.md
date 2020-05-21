@@ -9,6 +9,7 @@ the implementation is with three scene recognition schemes:
 ●	Bag of words representation and linear SVM classifier (svm_classify()).
 
 For detailed project requirements -----> Check "03_CIE552_Proj_SceneRecognitionBoW".
+
 For detailed project implementation ------> Check "Project 3 Report"
 
 To run the project you need to run the following:
@@ -19,5 +20,6 @@ To run the project you need to run the following:
 
 ### Data:
 To download the data needed for the project ----> Check: https://drive.google.com/drive/folders/14CVYwJG4e18fOKv0UxnAx35YY-Em_9Ts?usp=sharing
+
 For more information about the data, check "03_CIE552_Proj_SceneRecognitionBoW".
 
